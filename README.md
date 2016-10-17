@@ -4,7 +4,6 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 ***
 **Listado de material disponible**
 - INO_001: Uso de entradas y salidas digitales
-- INO_002: Probando la libreria IRremote
 - INO_003: IR remote control - Activando cargas
 - INO_004: Manejo de servo VIGOR VS-2
 - INO_005: Sensor ultrasónico HC-SR04
