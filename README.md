@@ -8,3 +8,12 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 - INO_004: Manejo de servo VIGOR VS-2
 - INO_005: Sensor ultrasónico HC-SR04
 - INO_006: Control de servo con potenciometro
+
+***
+Puedes seguirme en:
+- [Blogspot](http://mrchunckuee.blogspot.com)
+- [Facebook](https://www.facebook.com/ElectronicayRobotica)
+- [Twitter](https://twitter.com/MrChunckuee)
+- [GitHub](https://github.com/MrChunckuee)
+- [YouTube](https://www.youtube.com/user/mrchunckueepsr)
+- [Google+](https://plus.google.com/u/0/+PedroSanchez-MrChunckuee)
