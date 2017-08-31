@@ -1,6 +1,6 @@
 # ARDUINO Examples
 ***
-Recopilación de algunos ejercicios que he realizado usando arduino, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [E&R by MrChuckuee] (http://mrchunckuee.blogspot.mx/p/arduino.html)
+Recopilación de algunos ejercicios que he realizado usando arduino, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [E&R by MrChuckuee](http://mrchunckuee.blogspot.mx/p/arduino.html)
 ***
 **Listado de material disponible**
 - INO_001: Uso de entradas y salidas digitales
