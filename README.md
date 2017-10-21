@@ -8,6 +8,7 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 - INO_004: Manejo de servo VIGOR VS-2
 - INO_005: Sensor ultrasónico HC-SR04
 - INO_006: Control de servo con potenciometro
+- INO_007: Multiplexar puerto serie
 
 ***
 Puedes seguirme en:
