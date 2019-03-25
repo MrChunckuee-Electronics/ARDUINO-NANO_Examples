@@ -9,6 +9,7 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 - INO_005: Sensor ultrasónico HC-SR04
 - INO_006: Control de servo con potenciometro
 - INO_007: Multiplexar puerto serie
+- INO_008: Ejemplo basico usando timers e interrupciones
 
 ***
 Puedes seguirme en:
