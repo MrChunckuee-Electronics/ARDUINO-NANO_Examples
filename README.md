@@ -12,6 +12,7 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 - INO_008: Ejemplo basico usando timers e interrupciones
 - INO_009: Uso basico de LCD16x2 con modulo I2C
 - INO_010: Mostrar datos de teclado matricial 4x4 en LCD16x2 
+- INO_011: Mostrar datos del DS1302 en la LCD16x2
 - libraries: Esta carpeta contiene las diferentes bibliotecas que se usan en algunos ejemplos de la lista anterior, los comparto por aca por si en algun momento no esta disponible la version de los autores.
 
 ***
