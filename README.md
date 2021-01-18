@@ -5,7 +5,7 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 **Listado de material disponible:**
 | **#**| **Nombre**| **Descripción**|
 | ---- | ---- | ---- | 
-| 0 | Librerias| Esta carpeta contiene las diferentes bibliotecas que se usan en algunos ejemplos de este repositorio | 
+| 0 | Librerias| Contiene las diferentes bibliotecas que se usan en algunos ejemplos de este repositorio | 
 | 1 | NANO_GPIO | Uso de entradas y salidas digitales |
 | 2 | NANO_IRrecvDump_test | Probando la libreria IRremote | 
 | 3 | INO_003 | IR remote control - Activando cargas |
