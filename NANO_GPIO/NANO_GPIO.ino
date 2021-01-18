@@ -3,7 +3,7 @@
  *                  Uso de entradas y salidas
  *
  *******************************************************************************
- * FileName:        INO_001.ino
+ * FileName:        NANO_GPIO.ino
  * Processor:       ATmega328
  * Complier:        Arduino v1.6.5
  * Author:          Pedro Sánchez (MrChunckuee)
