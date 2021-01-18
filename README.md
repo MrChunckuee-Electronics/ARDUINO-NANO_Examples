@@ -5,18 +5,18 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 **Listado de material disponible:**
 | **#**| **Nombre**| **Descripción**|
 | ---- | ---- | ---- | 
+| 0 | Librerias| Esta carpeta contiene las diferentes bibliotecas que se usan en algunos ejemplos de este repositorio | 
 | 1 | NANO_GPIO | Uso de entradas y salidas digitales |
-
-- INO_003: IR remote control - Activando cargas
-- INO_004: Manejo de servo VIGOR VS-2
-- INO_005: Sensor ultrasónico HC-SR04
-- INO_006: Control de servo con potenciometro
-- INO_007: Multiplexar puerto serie
-- INO_008: Ejemplo basico usando timers e interrupciones
-- INO_009: Uso basico de LCD16x2 con modulo I2C
-- INO_010: Mostrar datos de teclado matricial 4x4 en LCD16x2 
-- INO_011: Mostrar datos del DS1302 en la LCD16x2
-- libraries: Esta carpeta contiene las diferentes bibliotecas que se usan en algunos ejemplos de la lista anterior, los comparto por aca por si en algun momento no esta disponible la version de los autores.
+| 2 | NANO_IRrecvDump_test | Probando la libreria IRremote | 
+| 3 | INO_003 | IR remote control - Activando cargas |
+| 4 | INO_004 | Manejo de servo VIGOR VS-2 |
+| 5 | INO_005 | Sensor ultrasónico HC-SR04 |
+| 6 | INO_006 | Control de servo con potenciometro |
+| 7 | INO_007 | Multiplexar puerto serie |
+| 8 | INO_008 | Ejemplo basico usando timers e interrupciones |
+| 9 | INO_009 | Uso basico de LCD16x2 con modulo I2C |
+| 10 | INO_010 | Mostrar datos de teclado matricial 4x4 en LCD16x2  |
+| 11 | INO_011 | Mostrar datos del DS1302 en la LCD16x2 |
 
 ***
 Puedes seguirme en:
