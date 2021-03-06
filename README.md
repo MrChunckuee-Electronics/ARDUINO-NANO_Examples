@@ -17,6 +17,7 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 | 9 | INO_009 | Uso basico de LCD16x2 con modulo I2C |
 | 10 | INO_010 | Mostrar datos de teclado matricial 4x4 en LCD16x2  |
 | 11 | INO_011 | Mostrar datos del DS1302 en la LCD16x2 |
+| 12 | NANO_DS1302_DHT22_LCD12x6 | Mostrar datos del DS1302 y DHT22 en una LCD16x2 |
 
 ***
 Puedes seguirme en:
