@@ -1,0 +1,5 @@
+#Algunos proyectos incluyen simulacion en proteus
+#asi que ignoramos los siguientes archivos
+*.workspace
+*.pdsbak
+*.pdsprj
