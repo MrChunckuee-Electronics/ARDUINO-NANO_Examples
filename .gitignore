@@ -2,4 +2,4 @@
 #asi que ignoramos los siguientes archivos
 *.workspace
 *.pdsbak
-*.pdsprj
+#*.pdsprj
