@@ -3,7 +3,7 @@
  *                  Sensor ultrasónico HC-SR04
  *
  *******************************************************************************
- * FileName:        INO_005.ino
+ * FileName:        NANO_HCSR04_test.ino
  * Processor:       ATmega328
  * Complier:        Arduino v1.6.5
  * Author:          Pedro Sánchez (MrChunckuee)
@@ -46,4 +46,3 @@ float GetDistance(){
   distance = tiempo / 58.00; // Distancia con 2 decimales
   return distance;
 }
-
