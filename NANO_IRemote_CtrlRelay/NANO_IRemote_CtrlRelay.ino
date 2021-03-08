@@ -3,7 +3,7 @@
  *                  IR Remote Control - Activar cargas
  *
  *******************************************************************************
- * FileName:        INO_003.ino
+ * FileName:        NANO_IRremote_CtrlRelay.ino
  * Processor:       ATmega328
  * Complier:        Arduino v1.6.5
  * Author:          Pedro Sánchez (MrChunckuee)
