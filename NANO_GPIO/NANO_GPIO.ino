@@ -5,14 +5,14 @@
  *******************************************************************************
  * FileName:        NANO_GPIO.ino
  * Processor:       ATmega328
- * Complier:        Arduino v1.6.5
+ * Complier:        Arduino v1.8.42
  * Author:          Pedro Sánchez (MrChunckuee)
  * Blog:            http://mrchunckuee.blogspot.com/
  * Email:           mrchunckuee.psr@gmail.com
  * Description:     Manejo basico de entradas y salidas usando Arduino Nano(Chino)
  *******************************************************************************
  * Rev.         Date            Comment
- *   v1.00      14/10/2015      Creación del firmware
+ *   v1.0.0      14/10/2015      Creación del firmware
  ******************************************************************************/
 // Etiquetas de entradas y salidas 
 // mover de acuerdo al circuito
