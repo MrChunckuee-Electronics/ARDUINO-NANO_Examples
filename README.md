@@ -8,7 +8,7 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 | 0 | Librerias| Contiene las diferentes bibliotecas que se usan en algunos ejemplos de este repositorio | 
 | 1 | NANO_GPIO | Uso de entradas y salidas digitales |
 | 2 | NANO_IRrecvDump_test | Probando la libreria IRremote | 
-| 3 | INO_003 | IR remote control - Activando cargas |
+| 3 | NANO_IRemote_CtrlRelay | IR remote control - Activando cargas |
 | 4 | INO_004 | Manejo de servo VIGOR VS-2 |
 | 5 | INO_005 | Sensor ultrasónico HC-SR04 |
 | 6 | INO_006 | Control de servo con potenciometro |
