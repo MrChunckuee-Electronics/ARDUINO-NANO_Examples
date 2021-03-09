@@ -3,7 +3,7 @@
  *        Ejemplo basico de la LCD16x2 con el modulo I2C
  *
  *******************************************************************************
- * FileName:        INO_009.ino
+ * FileName:        NANO_LCD12x6_I2C_test.ino
  * Processor:       ATmega328
  * Complier:        Arduino v1.8.3
  * Author:          Pedro Sánchez (MrChunckuee)
