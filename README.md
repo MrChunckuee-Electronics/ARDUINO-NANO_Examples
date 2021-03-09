@@ -11,8 +11,8 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 | 3 | NANO_IRemote_CtrlRelay | IR remote control - Activando cargas |
 | 4 | NANO_CtrlServo_VIGOR | Manejo de servo VIGOR VS-2 |
 | 5 | NANO_HCSR04_test | Sensor ultrasónico HC-SR04 |
-| 6 | INO_006 | Control de servo con potenciometro |
-| 7 | INO_007 | Multiplexar puerto serie |
+| 6 | NANO_CtrlServo_potentiometer | Control de servo con potenciometro |
+| 7 | NANO_Multiplex_UART | Multiplexar puerto serie |
 | 8 | NANO_Interrupt_test | Ejemplo basico usando timers e interrupciones |
 | 9 | NANO_LCD12x6_I2C_test | Uso basico de LCD16x2 con modulo I2C |
 | 10 | NANO_KeyPad4x4_LCD16x2 | Mostrar datos de teclado matricial 4x4 en una LCD16x2  |
