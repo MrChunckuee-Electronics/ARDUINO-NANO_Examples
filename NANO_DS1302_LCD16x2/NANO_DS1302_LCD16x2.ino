@@ -3,9 +3,9 @@
  *        Mostrar datos del DS1302 en LCD16x2 
  *
  *******************************************************************************
- * FileName:        INO_011.ino
+ * FileName:        NANO_DS1302_LCD16x2.ino
  * Processor:       ATmega328
- * Complier:        Arduino v1.8.3
+ * Complier:        Arduino v1.8.42
  * Author:          Pedro Sánchez (MrChunckuee)
  * Blog:            http://mrchunckuee.blogspot.com/
  * Email:           mrchunckuee.psr@gmail.com
