@@ -3,7 +3,7 @@
  *        Ejemplo basico usando timers e interrupciones
  *
  *******************************************************************************
- * FileName:        INO_008.ino
+ * FileName:        NANO_Interrupt_test.ino
  * Processor:       ATmega328
  * Complier:        Arduino v1.8.3
  * Author:          Pedro Sánchez (MrChunckuee)
