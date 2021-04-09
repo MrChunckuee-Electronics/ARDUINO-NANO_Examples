@@ -3,7 +3,7 @@
  *                  Manejo de servomotor
  *
  *******************************************************************************
- * FileName:        INO_004.ino
+ * FileName:        NANO_CtrlServo_VIGOR.ino
  * Processor:       ATmega328
  * Complier:        Arduino v1.6.5
  * Author:          Pedro Sánchez (MrChunckuee)
