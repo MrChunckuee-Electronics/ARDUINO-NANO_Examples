@@ -20,6 +20,12 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 | 12 | NANO_DS1302_DHT22_LCD12x6 | Mostrar datos del DS1302 y DHT22 en una LCD16x2 |
 | 13 | NANO_KeyPad4x4_LCD16x2_menu | Menú básico con teclado matricial 4x4 y LCD16x2 |
 | 14 | NANO_Ctrl7seg_0to9CC_Op1 | Control de display de 7 segmentos de catodo comun - Contador de 0 a 9 (Op.1) |
+| 15 |  |  |
+| 16 |  |  |
+| 17 |  |  |
+| 18 |  |  |
+| 19 |  |  |
+| 20 |  |  |
 
 ***
 Puedes seguirme en:
