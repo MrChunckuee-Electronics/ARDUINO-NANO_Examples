@@ -3,7 +3,7 @@
  *  Control de display de 7 segmentos de catodo comun - Contador de 0 a 9 (Op.2)
  *
  *******************************************************************************
- * FileName:        NANO_Ctrl7seg_0to9CC_op1.ino
+ * FileName:        NANO_Ctrl7seg_0to9CC_op2.ino
  * Processor:       ATmega328
  * Complier:        Arduino v1.8.42
  * Author:          Pedro Sánchez (MrChunckuee)
