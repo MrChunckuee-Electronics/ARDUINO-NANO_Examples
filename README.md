@@ -1,6 +1,6 @@
 # ARDUINO Examples
 ***
-Recopilación de algunos ejercicios que he realizado usando arduino, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [E&R by MrChuckuee](http://mrchunckuee.blogspot.mx/p/arduino.html)
+Recopilación de algunos ejercicios que he realizado usando arduino, si deseas saber mas a detalle de cada uno de los codigos aqui mostrados te invito a visitar [**MrChuckuee Electronics**](http://mrchunckuee.blogspot.mx/p/arduino.html)
 ***
 **Listado de material disponible:**
 | **#**| **Nombre**| **Descripción**|
@@ -30,7 +30,7 @@ Recopilación de algunos ejercicios que he realizado usando arduino, si deseas s
 ***
 Puedes seguirme en:
 - [Blogspot](http://mrchunckuee.blogspot.com)
-- [Facebook](https://www.facebook.com/ElectronicayRobotica)
+- [Instagram](https://www.instagram.com/mrchunckuee_electronics/)
+- [Facebook](https://www.facebook.com/MrChunckueeElectronics)
 - [Twitter](https://twitter.com/MrChunckuee)
-- [GitHub](https://github.com/MrChunckuee)
-- [YouTube](https://www.youtube.com/user/mrchunckueepsr)
+- [YouTube](https://www.youtube.com/@MrChunckueeElectronics)
