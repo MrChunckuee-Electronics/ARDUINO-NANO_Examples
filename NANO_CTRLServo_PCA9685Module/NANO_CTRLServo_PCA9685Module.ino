@@ -26,7 +26,7 @@ unsigned int maxPWM_Duty = 505;
 unsigned int minPWM_Duty = 130;
 
 //Servo FUTABA S3003
-//unsigned int maxPWM_Duty = 245;
+//unsigned int maxPWM_Duty = 500;
 //unsigned int minPWM_Duty = 120;
 
    
